@@ -1,0 +1,24 @@
+# oh-my-claudecode 세션/상태 (버전관리 대상 아님)
+.omc/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office 임시 잠금 파일
+~$*
+
+# 입력 원본 바이너리 — 외부 저장소(_원본)로 (볼트 전역 정책과 일관)
+*.pdf
+*.hwp
+*.hwpx
+*.mp3
+*.wav
+*.m4a
+*.mp4
+*.mov
